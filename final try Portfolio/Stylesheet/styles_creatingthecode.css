@@ -66,7 +66,7 @@ body {
 
 
 .Video_Text h1 {
-	font-size: 4em;
+	font-size: 3em;
 	font-family: "Optima";
 	margin-bottom: 10px;
 	margin-top: 21px;
@@ -74,7 +74,7 @@ body {
 
 .Video_Text h2 {
 	
-	font-size: 3em;
+	font-size: 2.5em;
 	font-family: "Brush Script MT";
 	margin-top: 17px;
 	margin-bottom:15px;
@@ -144,8 +144,10 @@ body {
 }
 
 #PinkBeeMe {
-	width: 10%;
-	height: 10%;
+	width: 7%;
+	height: 7%;
+	margin-top: 1%
+
 	
 }
 
@@ -157,7 +159,7 @@ body {
 
 /* Heading 1 elements */
 h1 {
-	text-transform: uppercase; /* We are capitalizing our headings */
+	
 	font-family: "Trebuchet MS", Optima; 
 	text-align: center;
 	margin-top: 3%; /* We are adding a small margin above the headings */
@@ -188,7 +190,7 @@ p {
 	font-family: Perpetua, Rockwell Extra Bold;
 	text-align: justify;
 	letter-spacing: 1px; /* This expands the text slightly */
-	font-size: 20px;
+	font-size: 16px;
 	padding-left: 20px;
 	padding-right: 20px;
 }
@@ -198,7 +200,7 @@ center {
 	font-family: Perpetua, Rockwell Extra Bold;
 	text-align: center;
 	letter-spacing: 1px;
-	font-size: 20px;
+	font-size: 16px;
 	padding-left: 20px;
 	padding-right: 20px;
 }
@@ -325,4 +327,12 @@ h2:hover {
 footer {
 	padding: 2%;
 	background-color:white;
+}
+.BeePic_and_Quote p q {
+	font-size: 1.15em;
+}
+
+
+.copy_and_rights {
+	margin-top: 1%;
 }
